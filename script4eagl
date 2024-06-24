@@ -1,2 +1,2 @@
-setclipboard("")
+setclipboard("https://discord.gg/SV3GBj5Suw")
 game.Players.LocalPlayer:Kick("join discord for new script (copied to clipboard)")
